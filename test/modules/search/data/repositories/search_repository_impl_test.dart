@@ -3,7 +3,6 @@ import 'package:github_search/app/modules/search/data/datasources/serach_datasou
 import 'package:github_search/app/modules/search/data/models/result_search_model.dart';
 import 'package:github_search/app/modules/search/data/repositories/search_repository_impl.dart';
 import 'package:github_search/app/modules/search/domain/entities/result_search.dart';
-import 'package:github_search/app/modules/search/domain/errors/errors.dart';
 import 'package:mockito/mockito.dart';
 
 class SearchDataSourceMock extends Mock implements SearchDataSource {}
