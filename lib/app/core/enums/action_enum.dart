@@ -1,0 +1,1 @@
+enum ActionEnum { onHold, onAction }
